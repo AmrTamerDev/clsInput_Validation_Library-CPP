@@ -1,6 +1,6 @@
 # 📌 C++ Input Validation Library (clsInputValidate) ⚡
 
-A lightweight and efficient C++ utility class designed to validate user input, ensuring data integrity and seamless error handling. This library provides robust number and date validation functions for console applications. 🚀  
+A lightweight and efficient C++ utility class designed to validate user input, ensuring data integrity and seamless error handling. This library provides robust number and date validation functions for console applications. 🚀
 
 ---
 
@@ -25,7 +25,7 @@ This class is designed for **C++ console-based applications** that require user 
 
 ### 📅 Date Validation  
 ✅ `IsDateBetween(Date, DateFrom, DateTo)`: Verifies if a date is within a given range.  
-✅ `IsValidationDate(Date)`: Ensures that a given date is valid.  
+✅ `IsValidDate(Date)`: Ensures that a given date is valid.  
 
 ### 🖊️ User Input Handling  
 ✅ `ReadShortNumber()`: Reads a **short** value from the user.  
@@ -85,3 +85,8 @@ This class is designed for **C++ console-based applications** that require user 
 ```sh
 git clone https://github.com/AmrTamerDev/clsInput_Validation_Library-CPP.git
 cd clsInput_Validation_Library-CPP
+
+📜 License
+This project is open-source. Feel free to fork, modify, and use it in your own C++ applications! 🎉
+🤝 Contributions
+Contributions are welcome! If you have improvements or additional features to add, submit a Pull Request 🚀
