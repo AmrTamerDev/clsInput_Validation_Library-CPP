@@ -1,18 +1,18 @@
 # 📌 C++ Input Validation Library (clsInputValidate) ⚡
 
-A lightweight and efficient C++ utility class designed to validate user input, ensuring data integrity and seamless error handling. This library provides robust number and date validation functions for console applications. 🚀
+A lightweight and efficient C++ utility class designed to validate user input, ensuring data integrity and seamless error handling. This library provides robust number and date validation functions for console applications. 🚀  
 
 ---
 
 ## 🌟 Project Overview  
 The **clsInputValidate** class helps developers ensure that user input meets required constraints, preventing invalid entries and enhancing program reliability. It includes functionalities such as:  
 
-✔️ **Numeric validation**: Ensures input is within a valid range.  
+✔️ **Numeric validation**: Ensures input falls within a valid range.  
 ✔️ **Date validation**: Checks if a date is valid and falls within a given range.  
 ✔️ **User input handling**: Reads and processes numbers and strings safely.  
 ✔️ **Error handling**: Prevents incorrect inputs and prompts re-entry.  
 
-This class is designed for **C++ console-based applications** that require user input validation.
+This class is designed for **C++ console-based applications** that require user input validation.  
 
 ---
 
@@ -44,7 +44,7 @@ This class is designed for **C++ console-based applications** that require user 
 
 ### 🔹 User Input Handling  
 - Uses `cin`, `cin.clear()`, and `cin.ignore()` to manage incorrect inputs.  
-- Prevents crashes by handling **invalid input entries**.  
+- Prevents crashes by properly handling **invalid input formats**.  
 
 ### 🔹 Date Handling  
 - Utilizes the **clsDate** class to compare and validate date values.  
@@ -85,8 +85,5 @@ This class is designed for **C++ console-based applications** that require user 
 ```sh
 git clone https://github.com/AmrTamerDev/clsInput_Validation_Library-CPP.git
 cd clsInput_Validation_Library-CPP
-
-📜 License
-This project is open-source. Feel free to fork, modify, and use it in your own C++ applications! 🎉
-🤝 Contributions
-Contributions are welcome! If you have improvements or additional features to add, submit a Pull Request 🚀
+##📜 License
+**This project is open-source. Feel free to fork, modify, and use it in your own C++ applications! 🎉
