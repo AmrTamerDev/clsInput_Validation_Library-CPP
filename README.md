@@ -85,9 +85,6 @@ This class is designed for **C++ console-based applications** that require user 
 ```sh
 git clone https://github.com/AmrTamerDev/clsInput_Validation_Library-CPP.git
 cd clsInput_Validation_Library-CPP
-
---
-
 ## 📜 License  
 This project is open-source. Feel free to fork, modify, and use it in your own C++ applications! 🎉  
 
